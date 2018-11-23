@@ -13,6 +13,11 @@ A machine learning model using Multiple Linear Regression to predict the Chance 
 Kaggle:
 https://www.kaggle.com/mohansacharya/graduate-admissions
 
+My Kaggle Submission:
+https://www.kaggle.com/michaelgkotsis/admission-prediction-model-with-linear-regression
+
 
 The initial training Dataset is inside the Rar.
 For Your Own predictions Load your X-Dataset after you Run the Training.
+
+
